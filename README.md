@@ -1,7 +1,7 @@
 ### Olá! Eu sou João Barreto
 
 ### Tecnologias trabalhadas
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBarreto03&layout=compact&langs_count=7&theme=default"/><br></br>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBarreto03&layout=compact&langs_count=7&theme=dark"/><br></br>
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=JoaoBarreto03&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <br></br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
