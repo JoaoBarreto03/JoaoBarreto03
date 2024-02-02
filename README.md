@@ -1,4 +1,6 @@
-### Olá! Eu sou João Barreto
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+João+Barreto!;Engenheiro+de+Software)](https://git.io/typing-svg)
 
 ### Tecnologias trabalhadas
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBarreto03&layout=compact&langs_count=7&theme=tokyonight"/><img height="200em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api?username=JoaoBarreto03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
