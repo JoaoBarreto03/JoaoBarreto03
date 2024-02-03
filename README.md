@@ -24,8 +24,6 @@
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-![snake gif](https://github.com/JoaoBarreto03/JoaoBarreto03/blob/output/github-contribution-grid-snake.gif)
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=footer"/>
